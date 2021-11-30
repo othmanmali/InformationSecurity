@@ -1,4 +1,4 @@
-# Guess passwords using brute-force
+# Guessing passwords using brute-force
 # Hashing
 # Access Control
 
