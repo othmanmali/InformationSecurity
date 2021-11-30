@@ -1,4 +1,6 @@
-# InformationSecurity
+# Guess passwords using brute-force
+# Hashing
+# Access Control
 
 Lab 1:
 1. In this “lab” problem, you will be working on a Linux Server Virtual Machine (VM). An image of this VM is available (attached with the HW). The VM is having an administrator and 5 users, as shown in the figure below. You don’t have access to any of the users of the Server, to be able to access the Server, you will need to perform password cracking! You were given a line of password hash from (/etc/shadow) for the administrator (admin1) of the Server (attached with the HW).
